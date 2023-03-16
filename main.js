@@ -7,7 +7,7 @@ const wrapper = document.querySelector(".wrapper"),
   arrowBack = document.querySelector("header i");
 
 const apiKey = ""; // Write Here Your API Key On openweathermap.org , You Should Sign Up
-// If You Don't Want .. Use (0e610c422fd2204f934767137c6f3cfc) Key
+
 let api;
 
 inputField.addEventListener("keyup", (e) => {
